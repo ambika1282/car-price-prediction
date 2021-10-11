@@ -25,3 +25,4 @@ sklearn==0.0
 threadpoolctl==3.0.0
 tornado @ file:///C:/ci/tornado_1606935947090/work
 wincertstore==0.2
+gunicorn
